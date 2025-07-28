@@ -22,5 +22,8 @@ public class Anagram {
         String s1= "listen";
         String s2= "Silent";
         checkAnagram(s1, s2);
+        System.out.println("Demo");
+        System.out.println("Git");
+
     }
 }
