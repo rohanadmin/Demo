@@ -24,6 +24,10 @@ public class Anagram {
         checkAnagram(s1, s2);
         System.out.println("Demo");
         System.out.println("Git");
+		System.out.println("Demo");
+        System.out.println("Git");
+		System.out.println("Demo");
+        System.out.println("Git");
 
     }
 }
