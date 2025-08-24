@@ -2,6 +2,8 @@ a
 b
 c
 d
+<<<<<<< HEAD
+=======
 e
 f
 g
@@ -13,3 +15,4 @@ numbers
 3
 4
 56
+>>>>>>> 6cf2e53c6679fdcb4ac797a813dbcc4fac3f57f9

@@ -49,11 +49,15 @@ public class Anagram {
 
     public static void main(String[] args){
 
-        String s1= "listen";
         String s2= "Silent";
+		String s1= "listen";
         abc;
 		bcd;
 		zzz;
+		rrr;
+		ftg;
+		mmm;
+
 
     }
 }
